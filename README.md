@@ -1,5 +1,4 @@
-# ansible-docker
-Docker image for ansible
+# Docker Image for Ansible
 
 This image based at Ubuntu and contains:
 * ansible
