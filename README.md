@@ -7,13 +7,13 @@ This image based at Ubuntu and contains:
 ## Usage
 
 ```Bash
-$ docker pull kudlayry/ansible
+$ docker pull kromz/ansible
 ```
 
 ## Example of .gitlab-ci.yml
 
 ```YAML
-image: kudlayry/ansible:latest
+image: kromz/ansible:latest
 
 stages:
   - test
